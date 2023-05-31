@@ -9,6 +9,8 @@ from time import sleep
 from random import randint
 
 
+
+
 goorm_session = GoormIDE(
     email= argv[1],
     password= argv[2]
